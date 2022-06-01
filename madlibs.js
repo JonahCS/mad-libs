@@ -5,7 +5,6 @@
 console.log("MAD LIBS : A Camping We Will Go! ")
 
 //Getting user input from the console
-let input1 = prompt("Enter a Noun(a person's name)");
 let input2 = prompt("Enter a Noun");
 let input3 = prompt("Enter an Adjective");
 let input4 = prompt("Enter a Verb");
