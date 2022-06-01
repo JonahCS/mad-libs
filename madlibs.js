@@ -38,6 +38,11 @@ ${input15} ${input16} stories and roast ${input17} around the campfire!! `);
 /* ******************************************************************************************* */
 
 //Title of the mad libs game 
+let input18,input19,input20;
+let game2=prompt("Do you want to play the next game? Enter 'Yes' or 'No'");
+if(game2 =="Yes") {
+console.log("Play Again");
+
 console.log("MAD LIBS : Enchanted Forest");
 
 //Getting user input form the console
@@ -71,4 +76,18 @@ ${input6} ${input7} and ${input8} ${input9} here! In the
 ${input10} there is a pool full of ${input11}. I fall asleep each night on a ${input12} of
 ${input13} and dream of ${input14} ${input15}. It feels as though I have lived here for
 ${input16} ${input17}. I hope one day you can visit, although the only way to get here now is
-${input18} on a ${input19} ${input10}!! `);
+${input18} on a ${input19} ${input20}!! `);
+
+}
+else if(game2=="No"){
+console.log("\n");  
+console.log("\n");
+console.log("GOOD BYE!");
+}
+
+else{
+    console.log("\n");  
+    console.log("\n");
+    console.log("Your input is invalid");
+    console.log("Reload the webpage and Try all over again")
+} 
