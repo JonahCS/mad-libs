@@ -5,7 +5,7 @@
 console.log("MAD LIBS : A Camping We Will Go! ")
 
 //Getting user input from the console
-let input1 = prompt("Enter a Noun(a person's name)")=;
+let input1 = prompt("Enter a Noun(a person's name)");
 let input2 = prompt("Enter a Noun");
 let input3 = prompt("Enter an Adjective");
 let input4 = prompt("Enter a Verb");
@@ -41,26 +41,26 @@ ${input15} ${input16} stories and roast ${input17} around the campfire!! `);
 console.log("MAD LIBS : Enchanted Forest");
 
 //Getting user input form the console
-let input1 = prompt("Enter Person's Name");
-let input2 = prompt("Enter Adjective");
-let input3 = prompt("Enter Color");
-let input4 = prompt("Enter Animal");
-let input5 = prompt("Enter Place");
-let input6 = prompt("Enter Adjective");
-let input7 = prompt("Enter Magical Creature(plural)")
-let input8 = prompt("Enter Adjective");
-let input9 = prompt("Enter Magical Creature(plural)")
-let input10 = prompt("Enter Room in the House");
-let input11 = prompt("Enter Noun");
-let input12 = prompt("Enter Noun");
-let input13 = prompt("Enter Noun");
-let input14 = prompt("Enter Adjective");
-let input15 = prompt("Enter Noun");
-let input16 = prompt("Enter Number");
-let input17 = prompt("Enter Measure of Time");
-let input18 = prompt("Enter Verb(ending in ing)");
-let input19 = prompt("Enter Adjective");
-let input20 = prompt("Enter Noun");
+input1 = prompt("Enter Person's Name");
+input2 = prompt("Enter Adjective");
+input3 = prompt("Enter Color");
+input4 = prompt("Enter Animal");
+input5 = prompt("Enter Place");
+input6 = prompt("Enter Adjective");
+input7 = prompt("Enter Magical Creature(plural)")
+input8 = prompt("Enter Adjective");
+input9 = prompt("Enter Magical Creature(plural)")
+input10 = prompt("Enter Room in the House");
+input11 = prompt("Enter Noun");
+input12 = prompt("Enter Noun");
+input13 = prompt("Enter Noun");
+input14 = prompt("Enter Adjective");
+input15 = prompt("Enter Noun");
+input16 = prompt("Enter Number");
+input17 = prompt("Enter Measure of Time");
+input18 = prompt("Enter Verb(ending in ing)");
+input19 = prompt("Enter Adjective");
+input20 = prompt("Enter Noun");
 
 //printing out a mad lib to the console
 
